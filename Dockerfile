@@ -1,4 +1,4 @@
-FROM hexletbasics/base-image
+FROM proskurekov/base-image
 
 # Install pipx using apt to avoid externally-managed Python issues
 RUN apt-get update && apt-get install -y pipx \
