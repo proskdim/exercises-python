@@ -1,10 +1,6 @@
 # exercises-python
 
-[![Github Actions Status](../../workflows/Docker/badge.svg)](../../actions)
-
-## How to contribute
-
-* Discussions in [Telegram community](https://t.me/hexletcommunity/12)
+[![Github Actions Status](../../workflows/main/badge.svg)](../../actions)
 
 ## Develop
 
@@ -24,11 +20,3 @@ make compose-code-lint
 make compose-description-lint
 make compose-schema-validate
 ```
-
-##
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=exercises-python)
-
-This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=exercises-python).
-##
-
-See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
