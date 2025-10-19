@@ -1,0 +1,9 @@
+---
+language:
+  name: Python
+  title: "Курс по языку программирования Python"
+  description: "Основы Python для начинающих. Простое и понятное объяснение всех ключевых конструкций от переменных до функций"
+  extension: py
+  docker_image: "ghcr.io/proskdim/exercises-python"
+  exercise_filename: index.py
+  exercise_test_filename: test_code.py
