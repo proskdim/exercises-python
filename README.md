@@ -1,7 +1,5 @@
 # exercises-python
 
-[![Github Actions Status](../../workflows/main/badge.svg)](../../actions)
-
 ## Develop
 
 ```bash
