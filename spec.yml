@@ -7,3 +7,4 @@ language:
   docker_image: "ghcr.io/proskdim/exercises-python"
   exercise_filename: index.py
   exercise_test_filename: test_code.py
+  progress: in_work
