@@ -1,4 +1,3 @@
-# from hexlet.test import expect_output
 import importlib
 
 index = importlib.import_module("index")
