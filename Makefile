@@ -1,4 +1,4 @@
--include /opt/basics/common/common.mk
+-include /opt/codex/common/common.mk
 
 compose-setup: compose-build
 
